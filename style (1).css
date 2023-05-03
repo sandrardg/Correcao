@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabecalho{background-color: brown;
+    color: coral;
+display: flex;
+justify-content: space-around;
+padding: 5px 0%;
+}
+
+.logo{
+    width: 20%;
+}
+    
+.item1{
+
+    display: inline-block;
+    margin: 10% 16px;
+    font-size: 25px;
+}
