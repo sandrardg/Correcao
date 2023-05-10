@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: brown;
+    color: coral;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px 0;
+}
+
+
+.cabecalho-imagem{
+    width: 10%;
+}
+    
+.item1{
+
+    display: inline-block;
+    margin: 10% 16px;
+    font-size: 25px;
+}
